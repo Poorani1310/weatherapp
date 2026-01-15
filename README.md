@@ -16,4 +16,4 @@ On clicking the search button it displays the
 
 If any unknow city entered it displays City not found.
 
->>>>>>> 710fda97399718b6ed5e24a7c2e54882157349c9
+
