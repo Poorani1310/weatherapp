@@ -16,4 +16,7 @@ On clicking the search button it displays the
 
 If any unknow city entered it displays City not found.
 
+Project link: https://weatherappvercel-wheat.vercel.app
+Repository link: https://github.com/Poorani1310/weatherapp
+
 
